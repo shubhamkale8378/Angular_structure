@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   abc: any = '1';
+  abcC: any = '1';
 }
